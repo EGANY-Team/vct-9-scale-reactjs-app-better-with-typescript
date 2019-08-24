@@ -8,7 +8,11 @@ const Intro: React.FC = () => {
       <h2>Vọc cùng Thành #9 - Demo</h2>
       <ul>
         <li>
-          <a href="">
+          <a
+            href="https://devnow.vn/?p=3108"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <span role="img" aria-label="pointing-left-hand">
               👉
             </span>{" "}
@@ -16,7 +20,11 @@ const Intro: React.FC = () => {
           </a>
         </li>
         <li>
-          <a href="">
+          <a
+            href="https://github.com/EGANY-Team/vct-9-scale-reactjs-app-better-with-typescript"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <span role="img" aria-label="pointing-left-hand">
               👉
             </span>{" "}
