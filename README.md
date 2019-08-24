@@ -38,7 +38,7 @@ npm run build
 
 [git]: https://git-scm.com/
 [node]: https://nodejs.org
-[post]: https://devnow.vn/?p=3077
+[post]: https://devnow.vn/?p=3108
 [create-react-app]: https://github.com/facebook/create-react-app
 [jikan]: https://jikan.docs.apiary.io
 [ts]: https://www.typescriptlang.org/
